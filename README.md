@@ -1,11 +1,7 @@
 # credit-risk-classification
 
 ## Description
-In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
-
-## Description
-In this challenge, we'll use our knowledge of Python, and utilize Unsupervised Larning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
-
+In this Challenge, I’ll use various techniques to train and evaluate a model based on loan risk. I’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
 ##  Process
 
